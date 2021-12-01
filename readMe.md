@@ -1,0 +1,1 @@
+android 11 get read write permission && allow all file read write permission
